@@ -26,5 +26,5 @@ Out of nowhere, a Japanese elementary school is transported out of the world the
 
 ## Photo
 
-= [ravshaniya] (http://www.ravshaniya.com/art_photos)
+- [ravshaniya] (http://www.ravshaniya.com/art_photos)
 Greate art photos
