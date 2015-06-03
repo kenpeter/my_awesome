@@ -16,7 +16,7 @@ Slack like chat, but open source
 ## Debug
 
 - [Vdebug] (https://github.com/joonty/vdebug)
-Debugger for PHP
+Debugger for PHP with Vim
 
 
 ## Manga
