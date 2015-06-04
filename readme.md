@@ -2,6 +2,10 @@
 
 > My awesome lists
 
+## Video
+- [张艾嘉：一场特别的演讲 开讲啦20150321] (https://www.youtube.com/watch?v=fY_T7za_nOc)
+張艾嘉（英文名：Sylvia Chang，1953年7月21日－），台灣外省人，為華人電影界知名的演員、編劇和導演，也是臺湾金马奖與香港电影金像奖的双料影后，為入圍臺灣金馬獎和香港金像獎最多次的電影工作者
+
 ## Podcast 
 
 - [The changelog podcast](https://changelog.com/podcast/) 
